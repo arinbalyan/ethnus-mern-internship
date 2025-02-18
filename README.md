@@ -1,7 +1,7 @@
 # ETHNUS MERN Fullstack Internship Task Portfolio
 
 ## 🚀 Project Overview
-A comprehensive portfolio showcasing tasks completed during the MERN Fullstack Internship at VIT Bhopal.
+A comprehensive portfolio showcasing tasks completed during the ETHNUS MERN Fullstack Internship.
 
 ## 📋 Task Completion Tracker
 
