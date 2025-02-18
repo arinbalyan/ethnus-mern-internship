@@ -1,0 +1,24 @@
+.header {
+    background-color: #00bfff;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.navbar {
+    background-color: #a9a9a9;
+}
+
+.content {
+    height: 80vh;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.sidebar {
+    background-color: #5a5a5a;
+    color: white;
+    padding: 10px;
+    height: 80vh;
+}
